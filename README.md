@@ -1,4 +1,13 @@
-### Hi there 👋
+For more  
+- [repo visit gitlab](https://gitlab.com/ahmetozer)   
+- [container visit docker hub](https://hub.docker.com/u/ahmetozer/)
+- [Blog visit ahmetozer.org](https://ahmetozer.org)
+- [Turkish guide visit dijitaller](https://www.dijitaller.com/author/ahmet/)
+- [Photos visit unsplash  ![](https://unsplash.com/favicon-16x16.png)](https://unsplash.com/@ahmetozer)
+
+![Ahmet's github stats](https://github-readme-stats.vercel.app/api?username=ahmetozer&show_icons=true)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ahmetozer.ahmetozer)
 
 <!--
 **ahmetozer/ahmetozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
